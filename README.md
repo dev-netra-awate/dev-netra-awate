@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Netra!</h1>
 <h3 align="center"> Frontend Developer, Graduate student from Northeastern University</h3>
 
-- 🌱 I’m currently learning **Cloud services, Data visualization**
-
-- 👨‍💻 All of my projects are available at [https://github.com/dev-netra-awate](https://github.com/dev-netra-awate)
+- 👨‍💻 Portfolio -  https://dev-netra-awate.github.io/portfolio/#about
 
 - 💬 Ask me about **React, Javascript, HTML, CSS**
 
